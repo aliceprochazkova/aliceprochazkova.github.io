@@ -27,6 +27,7 @@ button {
 button:hover {
     background-color: #f633af;
     color: rgb(135, 26, 71);
+	color: #c3195d;
 }
 
 header{
